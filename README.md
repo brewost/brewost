@@ -1,7 +1,7 @@
 # Brewost
 
 ## Développeur full JS 
-[![trophy](https://github-profile-trophy.vercel.app/?username=brewost)](https://github.com/brewost/github-profile-trophy)
+
 
 
 ## I use:
@@ -40,7 +40,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Dbeaver](https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white)
 
-## Everyone loves stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brewost&theme=dark)](https://git.io/streak-stats)
 
